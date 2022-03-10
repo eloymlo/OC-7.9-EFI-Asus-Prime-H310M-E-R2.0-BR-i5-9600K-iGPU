@@ -10,3 +10,4 @@ ShowPicker is set to 'true'
 Verbose mode is enabled '-v'
 HideAuxiliary is set to 'false'
 No more need of alcid=12 due to the "layout-id = 0B000000" change under DeviceProperties.
+
