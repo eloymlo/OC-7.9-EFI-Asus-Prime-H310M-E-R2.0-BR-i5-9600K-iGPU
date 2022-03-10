@@ -5,9 +5,8 @@ In this one I have fix the issue with sound compatibility and now is more close 
 
 "DeviceProperties-->Add-->PciRoot(0x0)/Pci(0x1F,0x3)-->layout-id-->0B000000"
 
-Timeout is set to '5'
-ShowPicker is set to 'true'
-Verbose mode is enabled '-v'
-HideAuxiliary is set to 'false'
-No more need of alcid=12 due to the "layout-id = 0B000000" change under DeviceProperties.
-
+1. Timeout is set to '5'
+2. ShowPicker is set to 'true'
+3. Verbose mode is enabled '-v'
+4. HideAuxiliary is set to 'false'
+5. No more need of alcid=12 due to the "layout-id = 0B000000" change under DeviceProperties.
