@@ -1,4 +1,4 @@
-# OpenCore 7.9 EFI for Asus Prime H310M-E-R2.0-BR and i5-9600K Intel UHD Graphics 630 (iGPU)
+# OpenCore 7.9 EFI for Asus Prime H310M-E-R2.0-BR with i5-9600K Intel UHD Graphics 630 (iGPU)
 Updated version of my previous OpenCore EFI (7.8)
 
 In this one I have fixed the issue with sound compatibility and now is more close to a genuine Mac. Changes:
